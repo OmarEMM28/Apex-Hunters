@@ -19,8 +19,6 @@ public class Mouse_Select : MonoBehaviour
         Music = GameObject.Find("MenuMusic");
     }
 
-
-
     // Update is called once per frame
     void Update()
     {
